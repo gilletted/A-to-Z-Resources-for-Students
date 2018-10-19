@@ -250,6 +250,8 @@ different programming languages**
 
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Udacity - Free course Version Control with Git] (https://www.udacity.com/course/version-control-with-git--ud123)
+ - [Udacity - Free course Github & Collaboration] (https://www.udacity.com/course/github-collaboration--ud456)
 
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
